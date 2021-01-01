@@ -5,6 +5,9 @@ import win32api
 import win32con
 import threading
 
+# author Christian Duvick
+# link to game: http://tanksw.com/piano-tiles/
+
 # RGB is is (17, 17, 17)
 # Only need one color as they are all the same.
 R = 17
